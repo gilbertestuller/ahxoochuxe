@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eighiehew.leon1996.club/sitemap.xml
